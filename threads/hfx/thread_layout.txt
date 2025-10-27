@@ -1,0 +1,54 @@
+[align=center]
+[img=840x620]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/thread_layout_header.png?raw=true[/img]
+
+[size=large][color=#F012BE]200+ Active Users[/color] | [color=#FFFA1E]Over 150 5-star reviews[/color] | [color=#7FDBFF]9 Years of Development[/color][/size]
+
+[url=https://chromewebstore.google.com/detail/hf-xtension/hcfofmfmidhgbblcnnipcphhegcmdeeb][img=920x87]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/thread_layout_chrome_1.png?raw=true[/img][/url]
+[url=https://addons.mozilla.org/en-US/firefox/addon/hfx][img=920x87]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/thread_layout_ff_1.png?raw=true[/img][/url]
+[/align]
+
+HFX is back, rewritten entirely from scratch, and updated to support modern browsers (manifest v3 API).
+Popular features from version 2 have been ported over, along with many new features, now customizable with a new settings UI.
+Click the browser buttons above to download or check out the features below:
+
+[size=x-large]Features[/size]
+[list]
+[*] [size=large]New Settings Menu[/size]
+[spoiler=Settings preview][img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/features/hfx_settings_popup.png?raw=true[/img][/spoiler]
+[*] [size=large]Theme Customizer[/size]
+[spoiler=Mobale Blue Theme][img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/features/theme_customizer.png?raw=true[/img][/spoiler]
+[*] [size=large]HF Toolbar[/size]
+[spoiler=Sticky toolbar][img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/features/hf_toolbar.png?raw=true[/img][/spoiler]
+[*] [size=large]Convo Message Timestamps[/size]
+[spoiler=Timestamp Example][img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/features/convo_timestamps.png?raw=true[/img][/spoiler]
+[*] [size=large]Hack Game Additions[/size]
+[spoiler=Hack Game profile][img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/features/hack_game.png?raw=true[/img][/spoiler]
+[*] [size=large]Group Management Tools[/size]
+[spoiler=User profile][img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/features/group_management.png?raw=true[/img][/spoiler]
+[*] [size=large]Ban Reason on Profile[/size]
+[spoiler=Banned profile][img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/features/ban_reason.png?raw=true[/img][/spoiler]
+[*] [size=large]Expanded Profile Sections[/size]
+[spoiler=Profile example][img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/features/expanded_profile_sections.png?raw=true[/img][/spoiler]
+[*] [size=large]Interactive Post Statistics[/size]
+[*] [size=large]Private Message from Post[/size]
+[*] [size=large]Thread Mentions[/size]
+[*] [size=large]and 30 other features[/size]
+[/list]
+
+[size=x-large]Coming Soon[/size]
+[list]
+[*] [size=large]Who's Online User Sorting[/size]
+[*] [size=large]Alert Notification Badges[/size]
+[*] [size=large]User Mentions[/size]
+[*] [size=large]More themes[/size]
+[/list]
+
+[size=x-large]Show Your Support[/size]
+Want a [img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/trophy_supporter.png?raw=true[/img] on your posts? 
+Leave a review for HFX in the chrome webstore - be sure to include your UID and it will be added within 48 hours.
+
+Loving HFX? Donate $10 to the development of HFX and receive a [img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/trophy_donator.png?raw=true[/img]
+
+[size=x-large]Found a bug?[/size]
+Feel free to open a GitHub issue or post on this thread with your findings.
+Please include the feature name, the URL it happens on, as well as any steps that might help me debug it.
