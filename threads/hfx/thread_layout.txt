@@ -29,6 +29,8 @@ Click the browser buttons above to download or check out the features below:
 [spoiler=Banned profile][img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/features/ban_reason.png?raw=true[/img][/spoiler]
 [*] [size=large]Expanded Profile Sections[/size]
 [spoiler=Profile example][img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/features/expanded_profile_sections.png?raw=true[/img][/spoiler]
+[*] [size=large]Group Asset Customizer[/size]
+[spoiler=Thread example][img]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/features/group_asset_customizer.png?raw=true[/img][/spoiler]
 [*] [size=large]Interactive Post Statistics[/size]
 [*] [size=large]Private Message from Post[/size]
 [*] [size=large]Thread Mentions[/size]
@@ -37,10 +39,9 @@ Click the browser buttons above to download or check out the features below:
 
 [size=x-large]Coming Soon[/size]
 [list]
-[*] [size=large]Who's Online User Sorting[/size]
+[*] [size=large][s]More themes[/s][/size]
 [*] [size=large]Alert Notification Badges[/size]
 [*] [size=large]User Mentions[/size]
-[*] [size=large]More themes[/size]
 [/list]
 
 [size=x-large]Show Your Support[/size]
