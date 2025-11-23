@@ -1,0 +1,20 @@
+API notes:
+- forums needs to return it's children subforums
+   - Ideally a way to get all forums and their subforums
+- popularity:
+   - endpoint to return a user's popularity recieved
+   - endpoint to return a user's popularity given
+- me&users:
+   - "awards" property currently only returns the number of awards, not the award info itself (ideally get an array of award id, award name, award description, and award timestamp)
+   - "bratings" property needs to be added to show positive, neutral, and negative b-ratings associated to a user
+- groups: need an endpoint to get groups information, including:
+   - name, userbar_url, star_url, description?, owner?, leaders?, members?
+- trust scan:
+   - endpoint to return trust scan results for a user
+- quick loves:
+   - endpoint to see quick loves given and received
+   - count needs to be added to posts
+- private messages:
+   - endpoint to get private messages by folder
+   - endpoint to get private message by id
+   - endpoint to send private messages

@@ -1,0 +1,196 @@
+<?php
+ 
+require_once "hf_api.php";
+ 
+// Initialize api instance
+$api = new HF_API();
+ 
+// Set the access token for the specific authorized member
+$api->setAccessToken("ACCESS_TOKEN_HERE");
+ 
+// Let's make a post
+$write = $api->write([
+    "posts" => [ // Posts Write Permissions
+        '_tid' => "THREAD_ID",
+        '_message' => "POST_MESSAGE",
+    ]
+]);
+ 
+ 
+// Let's make a thread
+$write = $api->write([
+    "threads" => [ // Posts Write Permissions
+        '_fid' => "FORUM_ID",
+        '_subject' => "THREAD_SUBJECT",
+        '_message' => "FIRST_POST_MESSAGE",
+    ]
+]);
+ 
+ 
+// Let's send a bytes donation
+$write = $api->write([
+    "bytes" => [ // Bytes Write Permissions
+        '_uid' => "USER_ID_RECIPIENT",
+        '_amount' => "DONATION_AMOUNT",
+        '_reason' => "OPTIONAL_DONATION_REASON",
+        '_pid' => "OPTIONAL_POST_ID"
+    ]
+]);
+ 
+ 
+// Deposit to API Client Vault (min: 100)
+$write = $api->write([
+    "bytes" => [ // Bytes Write Permissions
+        '_deposit' => "DEPOSIT_AMOUNT"
+    ]
+]);
+ 
+ 
+// Withdraw from API Client Vault to authorized user (min: 100)
+$write = $api->write([
+    "bytes" => [ // Bytes Write Permissions
+        '_withdraw' => "WITHDRAW_AMOUNT"
+    ]
+]);
+
+
+// Stanley Bytes Bump
+$write = $api->write([
+    "bytes" => [ // Bytes Write Permissions
+        '_bump' => "THREAD_TID"
+    ]
+]);
+ 
+ 
+// Create a new contract
+$write = $api->write([
+    "contracts" => [ // Contracts Write Permissions
+        '_action' => "new",
+        '_uid' => "OTHER_USER_ID",
+        '_theirproduct' => "OPTIONAL_OTHER_USER_PRODUCT",
+        '_theircurrency' => "OPTIONAL_OTHER_USER_CURRENCY",
+        '_theiramount' => "OPTIONAL_OTHER_USER_AMOUNT",
+        '_theirproduct' => "OPTIONAL_OTHER_USER_PRODUCT",
+        '_theircurrency' => "OPTIONAL_OTHER_USER_CURRENCY",
+        '_theiramount' => "OPTIONAL_OTHER_USER_AMOUNT",
+        '_tid' => "OPTIONAL_THREAD_ID",
+        '_muid' => "OPTIONAL_MIDDLEMAN_USER_ID",
+        '_timeout' => "OPTIONAL_CONTRACT_TIMEOUT",
+        '_position' => "YOUR_POSITION_IN_CONTRACT",
+        '_terms' => "CONTRACT_TERMS",
+        '_public' => "yes", // "yes" or omit for private
+        '_address' => "OPTIONAL_PAYMENT_ADDRESS"
+    ]
+]);
+ 
+ 
+// Undo a newly created contract
+$write = $api->write([
+    "contracts" => [ // Contracts Write Permissions
+        '_action' => "undo",
+        '_cid' => "CONTRACT_ID"
+    ]
+]);
+ 
+ 
+// Deny a new contract
+$write = $api->write([
+    "contracts" => [ // Contracts Write Permissions
+        '_action' => "deny",
+        '_cid' => "CONTRACT_ID"
+    ]
+]);
+ 
+ 
+// Approve a new contract
+$write = $api->write([
+    "contracts" => [ // Contracts Write Permissions
+        '_action' => "approve",
+        '_cid' => "CONTRACT_ID",
+        '_address' => "OPTIONAL_PAYMENT_ADDRESS"
+    ]
+]);
+ 
+ 
+// Deny a contract as middleman
+$write = $api->write([
+    "contracts" => [ // Contracts Write Permissions
+        '_action' => "middleman_deny",
+        '_cid' => "CONTRACT_ID"
+    ]
+]);
+ 
+ 
+// Approve a contract as middleman
+$write = $api->write([
+    "contracts" => [ // Contracts Write Permissions
+        '_action' => "middleman_approve",
+        '_cid' => "CONTRACT_ID"
+    ]
+]);
+ 
+ 
+// Cancel as contract (spawned from contract template) as Vendor
+$write = $api->write([
+    "contracts" => [ // Contracts Write Permissions
+        '_action' => "vendor_cancel",
+        '_cid' => "CONTRACT_ID"
+    ]
+]);
+ 
+ 
+// Request cancel (requires both parties to cancel)
+$write = $api->write([
+    "contracts" => [ // Contracts Write Permissions
+        '_action' => "cancel",
+        '_cid' => "CONTRACT_ID"
+    ]
+]);
+ 
+ 
+// Mark a contract as complete
+$write = $api->write([
+    "contracts" => [ // Contracts Write Permissions
+        '_action' => "complete",
+        '_cid' => "CONTRACT_ID",
+        '_txn' => "OPTIONAL_TXN"
+    ]
+]);
+
+
+// Purchase a signature. Set an optional _price parameter that the order must be at or under (protects against price change that occur after you looking at the order vs executing the ordering)
+$write = $api->write([
+   "sigmarket" => [ // Sigmarket Write Permissions
+		"_type" => 'buy',
+		'_uid' => 160,
+		"_price" => 100,
+	]
+]);
+
+
+// Set your signature for sale
+$write = $api->write([
+   "sigmarket" => [ // Sigmarket Write Permissions
+		"_type" => 'setsale',
+		'_price' => 100, // bytes
+		'_duration' => 2 // days
+	]
+]);
+
+
+// Remove your signature from sale
+$write = $api->write([
+   "sigmarket" => [ // Sigmarket Write Permissions
+		"_type" => 'removesale'
+	]
+]);
+
+
+// Update a controlled signature. For _smid either specify a single SMID or use 'all' to update all signatures your control via signature market.
+$write = $api->write([
+   "sigmarket" => [ // Sigmarket Write Permissions
+		"_type" => 'changesig',
+		'_smid' => 'all',
+		'_sig' => "Some new signature text here!"
+	]
+]);
