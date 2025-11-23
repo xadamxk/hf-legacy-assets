@@ -1,0 +1,508 @@
+<link rel="stylesheet" href="https://hackforums.news/xgen/css/share.css" />
+<div class="x-container">
+  <div class="x-header">
+    <img src="https://hackforums.news/assets/v4/507.png" alt="HF News 507">
+    <div id="xs-anchors">
+        <a href="#x-headlines"><span class="xs-headlines">Headlines</span></a>
+        <a href="#x-sitenews"><span class="xs-sitenews">Site</span></a>
+        <a href="#x-usernews"><span class="xs-usernews">Users</span></a>
+        <a href="#x-groupnews"><span class="xs-groupnews">Groups</span></a>
+        <a href="#x-notables"><span class="xs-notables">Notables</span></a>
+        <a href="#x-cryptonews"><span class="xs-cryptonews">Crypto</span></a>
+        <a href="#x-animenews"><span class="xs-animenews">Anime</span></a>
+        <a href="#x-spotlight"><span class="xs-spotlight">Spotlight</span></a>
+    </div>
+    <img src="https://hackforums.news/assets/v4/anchorhint.png">
+  </div>
+
+  <div id="x-headlines">
+    <div style="text-align: center;"><a href="https://hackforums.net/member.php?action=profile&uid=777383" target="_blank" rel="noopener"> <img src="https://hackforums.news/assets/v4/headlines-hydra.png" width="766" height="204"> </a></div>
+    <p><strong>HF API Specification - OpenAPI Documentation on HF API v2</strong></p>
+    <p>xadamxk and TyrantKingBen with the help of Omniscient have published a full fledged HF API documentation using OpenAPI/Swagger. You can use your API token to test out API endpoints/queries through the documentation page. Grab the link to the documenation page in the thread and be sure to read the information xadamxk typed up.</p>
+    <p><a style="font-style: italic; font-size: small;" href="https://hackforums.net/showthread.php?tid=6155476" target="_blank" rel="noopener"> >> Source</a></p>
+  </div>
+  <div id="x-sitenews">
+   
+[align=center][url=https://hackforums.net/member.php?action=profile&uid=3176965][img]https://hackforums.news/assets/v4/sitenews-soulmate.png[/img][/url][/align]
+    [color=white][b]Site Statistics[/b][/color]
+   
+    [b]Total[/b]
+   
+[list]
+[][u]Posts:[/u] 5,046,722 [b]([/b][color=#32CD32]+0.07%[/color][b] - [/b][color=#32CD32]+3,624[/color][b])[/b]
+   
+[][u]Threads:[/u] 60,868,664 [b]([/b][color=#32CD32]+0.03%[/color][b] - [/b][color=#32CD32]+16,800[/color][b])[/b]
+   
+[][u]Members:[/u] 6,162,753 [b]([/b][color=#32CD32]+0.02%[/color][b] - [/b][color=#32CD32]+1,197[/color][b])[/b]
+[/list]
+    [b]Average[/b]
+   
+[list]
+[][u]Daily Posts:[/u] 11,733.54 [b]([/b][color=#32CD32]+0.11%[/color][b] - [/b][color=#32CD32]+12.38[/color][b])[/b]
+   
+[][u]Daily Threads:[/u] 1,188.08 [b]([/b][color=#32CD32]+0.11%[/color][b] - [/b][color=#32CD32]+1.35[/color][b])[/b]
+   
+[][u]Daily New Members:[/u] 972.42 [b]([/b][color=#32CD32]+0.06%[/color][b] - [/b][color=#32CD32]+0.6[/color][b])[/b]
+   
+[][u]Posts Per Member:[/u] 12.07 [b]([/b][color=#32CD32]+0.08%[/color][b] - [/b][color=#32CD32]+0.01[/color][b])[/b]
+   
+[][u]Replies Per Thread:[/u] 1.22 [b]([/b][color=#FFD700]~[/color][b])[/b]
+[/list]
+    [b][color=white]Ban Statistics[/color][/b]
+   
+    [b]Last Week's Bans[/b]
+   
+[list]
+   [][u]Staff Bans:[/u] 5
+   
+[list]
+   [][i]... Change from Last Edition:[/i] [color=#FF0000]-4[/color]
+   
+[/list]
+   
+[][u]Vacation Bans:[/u] 1
+   
+[list]
+   [][i]... Change from Last Edition:[/i] [color=#FFD700]~[/color]
+   
+[/list]
+   
+[][u]Combined Bans:[/u] 6
+   
+[list]
+   [][i]... Change from Last Edition:[/i] [color=#FF0000]-4[/color]
+   
+[/list]
+[/list]
+    [color=white][b]Forum Counts[/b][/color]
+   
+    [sp=[b]Tab Counts[/b]]
+   
+[list]
+[][b]Notable Sections[/b]
+   
+[list]
+[][u][url=https://hackforums.net/forumdisplay.php?fid=25][b]RANF[/b][/url] Threads:[/u] 75,972 [b]([/b][color=#32CD32]+0.03%[/color][b] - [/b][color=#32CD32]+20[/color][b])[/b]
+   
+[][u][url=https://hackforums.net/forumdisplay.php?fid=25][b]RANF[/b][/url] Posts:[/u] 1,212,530 [b]([/b][color=#32CD32]+0.01%[/color][b] - [/b][color=#32CD32]+155[/color][b])[/b]
+   
+[][u][url=https://hackforums.net/forumdisplay.php?fid=2][b]Lounge[/b][/url] Threads:[/u] 251,667 [b]([/b][color=#32CD32]+0.05%[/color][b] - [/b][color=#32CD32]+134[/color][b])[/b]
+   
+[][u][url=https://hackforums.net/forumdisplay.php?fid=2][b]Lounge[/b][/url] Posts:[/u] 4,393,559 [b]([/b][color=#32CD32]+0.11%[/color][b] - [/b][color=#32CD32]+4,878[/color][b])[/b]
+[/list]
+[/list]
+   
+[list]
+[][b]Hack[/b]
+   
+[list]
+[][u]Threads:[/u] 845,344 [b]([/b][color=#32CD32]+0.02%[/color][b] - [/b][color=#32CD32]+164[/color][b])[/b]
+   
+[][u]Posts:[/u] 7,961,942 [b]([/b][color=#32CD32]+0.02%[/color][b] - [/b][color=#32CD32]+1,981[/color][b])[/b]
+[/list]
+[/list]
+   
+[list]
+[][b]Life[/b]
+   
+[list]
+[][u]Threads:[/u] 516,955 [b]([/b][color=#32CD32]+0.04%[/color][b] - [/b][color=#32CD32]+190[/color][b])[/b]
+   
+[][u]Posts:[/u] 8,478,594 [b]([/b][color=#32CD32]+0.08%[/color][b] - [/b][color=#32CD32]+6,388[/color][b])[/b]
+[/list]
+[/list]
+   
+[list]
+[][b]Tech[/b]
+   
+[list]
+[][u]Threads:[/u] 224,666 [b]([/b][color=#32CD32]+0.01%[/color][b] - [/b][color=#32CD32]+22[/color][b])[/b]
+   
+[][u]Posts:[/u] 1,861,771 [b]([/b][color=#32CD32]+0.01%[/color][b] - [/b][color=#32CD32]+150[/color][b])[/b]
+[/list]
+[/list]
+   
+[list]
+[][b]Code[/b]
+   
+[list]
+[][u]Threads:[/u] 183,454 [b]([/b][color=#32CD32]+0.01%[/color][b] - [/b][color=#32CD32]+14[/color][b])[/b]
+   
+[][u]Posts:[/u] 1,536,603 [b]([/b][color=#FFD700]~[/color][b])[/b]
+[/list]
+[/list]
+   
+[list]
+[][b]Game[/b]
+   
+[list]
+[][u]Threads:[/u] 434,957 [b]([/b][color=#32CD32]+0.01%[/color][b] - [/b][color=#32CD32]+41[/color][b])[/b]
+   
+[][u]Posts:[/u] 4,448,993 [b]([/b][color=#32CD32]+0.01%[/color][b] - [/b][color=#32CD32]+441[/color][b])[/b]
+[/list]
+[/list]
+   
+[list]
+[][b]Groups[/b]
+   
+[list]
+[][u]Threads:[/u] 40,251 [b]([/b][color=#FFD700]~[/color][b])[/b]
+   
+[][u]Posts:[/u] 442,280 [b]([/b][color=#FFD700]~[/color][b])[/b]
+[/list]
+[/list]
+   
+[list]
+[][b]Web[/b]
+   
+[list]
+[][u]Threads:[/u] 89,181 [b]([/b][color=#32CD32]+0.01%[/color][b] - [/b][color=#32CD32]+9[/color][b])[/b]
+   
+[][u]Posts:[/u] 643,435 [b]([/b][color=#32CD32]+0.01%[/color][b] - [/b][color=#32CD32]+51[/color][b])[/b]
+[/list]
+[/list]
+   
+[list]
+[][b]GFX[/b]
+   
+[list]
+[][u]Threads:[/u] 141,614 [b]([/b][color=#FFD700]~[/color][b])[/b]
+   
+[][u]Posts:[/u] 1,053,340 [b]([/b][color=#32CD32]+0.01%[/color][b] - [/b][color=#32CD32]+86[/color][b])[/b]
+[/list]
+[/list]
+   
+[list]
+[][b]Market[/b]
+   
+[list]
+[][u]Threads:[/u] 1,216,015 [b]([/b][color=#32CD32]+0.03%[/color][b] - [/b][color=#32CD32]+352[/color][b])[/b]
+   
+[][u]Posts:[/u] 10,891,175 [b]([/b][color=#32CD32]+0.02%[/color][b] - [/b][color=#32CD32]+2,615[/color][b])[/b]
+[/list]
+[/list]
+   
+[list]
+[][b]Money[/b]
+   
+[list]
+[][u]Threads:[/u] 153,066 [b]([/b][color=#32CD32]+0.03%[/color][b] - [/b][color=#32CD32]+43[/color][b])[/b]
+   
+[][u]Posts:[/u] 1,973,527 [b]([/b][color=#32CD32]+0.06%[/color][b] - [/b][color=#32CD32]+1,250[/color][b])[/b]
+[/list]
+[/list]
+    [/sp]
+    [color=white][b]Membership Counts[/b][/color]
+   
+    [sp=[b]Groups[/b]]
+   
+[list]
+[][b]Profit[/b]
+               
+[list]
+[]3 Members ([color=#FFD700]~[/color])
+[/list]
+   
+[][b]Achievers[/b]
+               
+[list]
+[]59 Members ([color=#32CD32]+1[/color])
+[/list]
+   
+[][b]Equilibrium[/b]
+               
+[list]
+[]42 Members ([color=#32CD32]+5[/color])
+[/list]
+   
+[][b]Dawn[/b]
+               
+[list]
+[]30 Members ([color=#FFD700]~[/color])
+[/list]
+   
+[][b]Hypebeast[/b]
+               
+[list]
+[]92 Members ([color=#FF0000]-1[/color])
+[/list]
+   
+[][b]Panthers[/b]
+               
+[list]
+[]112 Members ([color=#32CD32]+3[/color])
+[/list]
+   
+[][b]Sociopaths[/b]
+               
+[list]
+[]40 Members ([color=#FFD700]~[/color])
+[/list]
+   
+[][b]Legends[/b]
+               
+[list]
+[]83 Members ([color=#32CD32]+1[/color])
+[/list]
+   
+[][b]Pink LSZ[/b]
+               
+[list]
+[]43 Members ([color=#32CD32]+3[/color])
+[/list]
+   
+[][b]Hustlers[/b]
+               
+[list]
+[]19 Members ([color=#32CD32]+1[/color])
+[/list]
+   
+[][b]Succubus[/b]
+               
+[list]
+[]4 Members ([color=#FFD700]~[/color])
+[/list]
+   
+[][b]Polymath[/b]
+               
+[list]
+[]12 Members ([color=#FFD700]~[/color])
+[/list]
+   
+[][b]Lions League[/b]
+               
+[list]
+[]14 Members ([color=#FFD700]~[/color])
+[/list]
+   
+[][b]Olympians[/b]
+               
+[list]
+[]18 Members ([color=#32CD32]+1[/color])
+[/list]
+   
+[][b]NERO's Group[/b]
+               
+[list]
+[]65 Members ([color=#32CD32]+18[/color])
+[/list]
+   
+[][b]Infamous[/b]
+               
+[list]
+[]27 Members ([color=#FFD700]~[/color])
+[/list]
+   
+[][b]The Brotherhood[/b]
+               
+[list]
+[]58 Members ([color=#32CD32]+1[/color])
+[/list]
+   
+[][b]Allegiance[/b]
+               
+[list]
+[]16 Members ([color=#FFD700]~[/color])
+[/list]
+   
+[][b]Wolfpack[/b]
+               
+[list]
+[]44 Members ([color=#32CD32]+1[/color])
+[/list]
+   
+[][b]Exchangers[/b]
+               
+[list]
+[]4 Members ([color=#FFD700]~[/color])
+[/list]
+   
+[/list]
+[/sp]   
+  </div>
+  <div id="x-usernews">
+    <div style="text-align: center;"><img src="https://hackforums.news/assets/v4/usernews-exceptional.png"></div><strong><span style="color: white;">User News</span></strong>
+    <ul>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=2367414"><span class="group9">Helltoy</span></a> has reached 1,000 posts!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=646178"><span class="group28">Vibe</span></a> has reached 10,000 posts! Congratulations!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=3419000"><span class="group28">Net Ninja</span></a> has reached 3,000 posts!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=3964154"><span class="group52">Τroye</span></a> has reached 3,000 posts!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=458073"><span class="group23">Chief</span></a> reached the 1,000 thread milestone, congratulations!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=351249"><span class="group28">Futurama</span></a> has reached 1,000 posts!</li>
+    </ul>
+    <strong><span style="color: white;">Awards & Achievements</span></strong>
+    <ul>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=75662"><span class="group63">Proof</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=4"><i class="award_sprite award_4"></i></a> award for the month of May 2021.</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4285067"><span class="group0">neo</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=307818"><span class="group28">~[DogiD]~</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=3787050"><span class="group28">Super</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=903914"><span class="group28">Prince™</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=1813748"><span class="group9">Akion2012</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=3886274"><span class="group67">Marketplace</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=2667047"><span class="group28">IDKIDKIDK</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=447912"><span class="group23">The Professional Hacker</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4774695"><span class="group46">Дождь</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4499444"><span class="group28">【ＢＡＤＭＡＮ】</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=1021000"><span class="group28">disqualifier</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4772473"><span class="group28">jecoylecoy</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=3481418"><span class="group67">OxaByte</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4550002"><span class="group28">ItsMeFox</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=3949418"><span class="group28">Silkroad</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=78"><i class="award_sprite award_78"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=1915062"><span class="group53">[̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=105"><i class="award_sprite award_105"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=3523609"><span class="group28">Crypt</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=105"><i class="award_sprite award_105"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=39744"><span class="group53">Sixen+</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=58"><i class="award_sprite award_58"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4078623"><span class="group53">triple6</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=58"><i class="award_sprite award_58"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=2373571"><span class="group23">Saix the Berserker</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=58"><i class="award_sprite award_58"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4774695"><span class="group46">Дождь</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=58"><i class="award_sprite award_58"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=447912"><span class="group23">The Professional Hacker</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=58"><i class="award_sprite award_58"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=3233350"><span class="group52">-Beherit</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=58"><i class="award_sprite award_58"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=130086"><span class="group49">Roytoy</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=58"><i class="award_sprite award_58"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=1915062"><span class="group53">[̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=94"><i class="award_sprite award_94"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4285067"><span class="group0">neo</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=94"><i class="award_sprite award_94"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=3097399"><span class="group67">Davkul</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=133"><i class="award_sprite award_133"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4972530"><span class="group28">A Nobody</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=133"><i class="award_sprite award_133"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=1767852"><span class="group60">The</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=133"><i class="award_sprite award_133"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=3537750"><span class="group48">Elduin</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=133"><i class="award_sprite award_133"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=1705415"><span class="group67">Geass</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=133"><i class="award_sprite award_133"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=3246699"><span class="group46">Mullet Muscle</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=117"><i class="award_sprite award_117"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=1486387"><span class="group23">Aeowulf</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=142"><i class="award_sprite award_142"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4932752"><span class="group28">TheCuriousCoyote</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=142"><i class="award_sprite award_142"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4859090"><span class="group52">Alex J</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=142"><i class="award_sprite award_142"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4972530"><span class="group28">A Nobody</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=146"><i class="award_sprite award_146"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=1915062"><span class="group53">[̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=146"><i class="award_sprite award_146"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=2033319"><span class="group28">SIM-2033319</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=146"><i class="award_sprite award_146"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=492869"><span class="group7">Carrot</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=146"><i class="award_sprite award_146"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=1493034"><span class="group67">Precisioη</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=146"><i class="award_sprite award_146"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=4301379"><span class="group0">nCuX0</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=146"><i class="award_sprite award_146"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=510406"><span class="group28">spyglass</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=146"><i class="award_sprite award_146"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=2439716"><span class="group70">Vyrez.</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=146"><i class="award_sprite award_146"></i></a> award!</li>
+    <li><a href="https://hackforums.net/member.php?action=profile&uid=82498"><span class="group28">SIM-82498</span></a> has received the <a href="https://hackforums.news/myawards.php?awid=146"><i class="award_sprite award_146"></i></a> award!</li>
+    </ul>
+    <strong><span style="color: white;">Vacations, Bans & Closures</span></strong>
+    <ul>
+    <li><strong><a href="https://hackforums.net/member.php?action=profile&uid=4895083"><span class="group7">Loved</span></a></strong> was banned for "marketplace violations / sales trashing /harassment"</li>
+    <li><strong><a href="https://hackforums.net/member.php?action=profile&uid=699478"><span class="group7">Files</span></a></strong> went on vacation.</li>
+    </ul>
+  </div>
+  <div id="x-groupnews">
+    <div style="text-align: center;"><a href="https://hackforums.net/member.php?action=profile&uid=718886" target="_blank" rel="noopener"> <img src="https://hackforums.news/assets/v4/groupnews-xen.png" width="766" height="204"> </a></div>
+    <p style="text-align: center;"><span style="color: #5db243;"><em><a style="color: #5db243;" href="https://hackforums.net/showthread.php?tid=6151813">Official Groups of Hack Forums</a> </em></span><strong>|</strong><span style="color: #5db243;"><em> <a style="color: #5db243;" href="https://hackforums.net/showthread.php?tid=6094149">Official Crews of Hack Forums</a></em></span></p>
+    <p><span style="color: #ffffff;"><strong>Groups & Crews for Sale</strong></span></p>
+    <ul>
+    <li><a href="https://hackforums.net/showthread.php?tid=6157934">Gamblers group for sale</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6122296">WTS Prevail Cartel</a><br><br></li>
+    </ul>
+    <p><span style="color: #ffffff;"><strong>Leadership Changes<br></strong></span></p>
+    <ul>
+    <li><a href="https://hackforums.net/gamecp.php?action=profile&uid=5036580">bending</a> purchased Trappy's Crew from <a href="https://hackforums.net/member.php?action=profile&uid=3323516">Trappy</a></li>
+    <li>Trappy's Crew rebranded to Bending Crew.</li>
+    <li>Nero's Group rebranded to Fate</li>
+    </ul>
+    <p><span style="color: #ffffff;"><strong>Group & Crew Recruitments</strong></span></p>
+    <ul>
+    <li><a href="https://hackforums.net/showthread.php?tid=6159541">[Official Group] Pink LSZ's Recruitment Thread</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6146645">Official HF Wiki Team || Recruitment</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6077675">Middlemen Crew Official Application thread</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6141501">[Official] Pirates - no buy-ins. only pirates!</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6142741">[Subbubus Official] Succubus e-whoring group recruitment</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6135089">[OFFICIAL] Heresy Application Thread - Apply Today!</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6157815">{OFFICIAL} Wicked - Party with the Devil!</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6152999">[#1 Crew] APEX RECRUITMENT - FOR ENTREPRENEURS & DIGITAL MARKETERS - NO BUYINS</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6161540">[#1 Community Group] Fate - Official Recruitment Thread - [FREE TO JOIN]</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6160394">[No Fee] Pirates!</a></li>
+    </ul>
+    <p><strong><span style="color: #ffffff;">Group & Crew Threads</span></strong></p>
+    <ul>
+    <li><a href="https://hackforums.net/showthread.php?tid=6090704">[#1][Official Groups] Panthers + Olympians - Announcement & Information [Exclusive]</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6109541">Official Informational Thread - Exalted Crew</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6108349">[NEW CREW] [A&I] JOIN TODAY!! SHOW EVERYONE WHAT YOU ARE MADE OF! 1/6/2/2/1/6/1</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6128601">[Official Group] Achievers - Green Name - 8 post stars - Bold name</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6133623">[Official] James' Happy Squad Crew | Announcement & Information</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6125440">[Official] Heresy Crew Information Thread - Announcement & Information MAY 2021</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6101652">[Official Group] Gamblers Lifetime Buy-In Thread [$25 month / $100 life]</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6156081">Are you a real Poker player? Join Gamblers for free TODAY!</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=6153277">[NEW][Official Group] Hustlers Limited Time Buy-In Thread & Details | Top Upgrades</a></li>
+    </ul>
+    <strong><span style="color: #ffffff;">Site Group Upgrades<br></span></strong>
+    <ul>
+    <li><a href="https://hackforums.net/upgrade.php#:~:text=6">L33t Account Upgrade Information & Pricing</a></li>
+    <li><a href="https://hackforums.net/upgrade.php#:~:text=1">Ub3r Account Upgrade Information & Pricing</a></li>
+    <li><a href="https://hackforums.net/showthread.php?tid=5952926">V3ndor Account Upgrade Information & Pricing</a></li>
+    </ul>
+    <p><em><span style="color: #ffffff; font-size: 8pt;"><strong>*</strong> As of the Friday prior to release.</span></em></p>
+  </div>
+  <div id="x-notables">
+      <div style="text-align: center;"><a href="https://hackforums.net/member.php?action=profile&uid=2774521"><img src="https://i.imgur.com/uvrVZ20.png"></a></div>
+  <p><span style="color: #fff; font-weight: bold;">Announcements</span></p>
+  <ul>
+  <li><a style="font-weight: bold;" href="https://hackforums.net/showthread.php?tid=6160221">Formatted Quote Usernames</a> - <a href="https://hackforums.net/member.php?action=profile&uid=175033"><span class="group4">Xerotic</span></a> <br>Quoting just a reshing update. Usernames are now displayed similarly to how tagging works. It shows the user's current username, as well as the username style for their current display group. Previously, it showed the username that a user had at the time of being quoted, with no styling.<br><br></li>
+  <li><a style="font-weight: bold;" href="https://hackforums.net/showthread.php?tid=6161291">HF Apple Touch Icon Updated</a> - <a href="https://hackforums.net/member.php?action=profile&uid=175033"><span class="group4">Xerotic</span></a> <br>If you are an iOS user, this change might bring a little bit of satisfaction to your every day life. When you have Hack Forums saved to your home screen or you bookmark the website, you will now see a new, more modern icon.</li>
+  </ul>
+  <p><span style="color: #fff; font-weight: bold;">Informational Threads</span></p>
+  <ul>
+  <li><a style="font-weight: bold;" href="https://hackforums.net/showthread.php?tid=6160976">Window 11 - Next Generation || About, Installation, Features, Updates and More!</a> - <a href="https://hackforums.net/member.php?action=profile&uid=4541508"><span class="group63">Exalted</span></a> <br>The next major update to the Windows operating system is Windows 11. It features a completely new approach to the user interface, with rounded edges being on almost everything. Exalted's megathread is the place to head to if you are looking for more information about the update.<br><br></li>
+  <li><a style="font-weight: bold;" href="https://hackforums.net/showthread.php?tid=6162396">EU allows tech giants to read your emails and private messages</a> - <a href="https://hackforums.net/member.php?action=profile&uid=4541508"><span class="group63">Exalted</span></a> <br>While the majority of Europeans are against chat control, the European Parliament voted on a law that gives tech companies the right to read every message you send and receive. Many see this as an excessive move. What do you think? Is it necessary in the fight against cybercrime?</li>
+  </ul>
+  <p><span style="color: #fff; font-weight: bold;">Entertaining Threads</span></p>
+  <ul>
+  <li><a style="font-weight: bold;" href="https://hackforums.net/showthread.php?tid=6161887">If you had to move to another country, what country would you move to?</a> - <a href="https://hackforums.net/member.php?action=profile&uid=3459543"><span class="group57">flavoral</span></a> <br>Moving across the world can be a scary thought. Everyone has a dream destination or a dream holiday. Do you have a country in mind that you would like to move to? Perhaps you crave sunshine all year round, or maybe you like a spot of rain.<br><br></li>
+  <li><a style="font-weight: bold;" href="https://hackforums.net/showthread.php?tid=6159712">BREAKING! See what your HackForums account is worth!</a> - <a href="https://hackforums.net/member.php?action=profile&uid=1834476"><span class="group0">Nachfolger</span></a> <br>Have you ever sat there and thought to yourself "gee, I wonder what my account is worth?" Well, fret no more! Nachfolger has made the best profile evaluator around. Simply visit his website and it will tell you how much your account is worth.</li>
+  </ul>
+  <p><span style="color: #fff; font-weight: bold;">Contests & Giveaways</span></p>
+  <ul>
+  <li><a style="font-weight: bold;" href="https://hackforums.net/showthread.php?tid=6161473">[Lions League] 80K Bytes Contest | Open To Everyone | 6 Winners | Ends 01-08-21</a> - <a href="https://hackforums.net/member.php?action=profile&uid=504910"><span class="group57">Grim</span></a> <br>The fifth Lions League contest is here! Grim is hosting this one and is offering 80,000 bytes in prizes. Six lucky individuals each have the chance to win a share of the pool.<br><br></li>
+  <li><a style="font-weight: bold;" href="https://hackforums.net/showthread.php?tid=6162602">[[ Official Group FATE ]] Group Giveaway - Awards, Bytes and Upgrades</a> - <a href="https://hackforums.net/member.php?action=profile&uid=5002443"><span class="group0">Starstruck</span></a> <br>Starstruck is giving away awards and upgrades. If you are missing Ub3r or L33t, now is a great chance to get it free of charge! Do you want that Heart of Generosity award as well? Check out the contest for your chance to win.</li>
+  </ul>
+</div>
+  <div id="x-cryptonews">
+      <div style="text-align: center;"><a href="https://hackforums.net/member.php?action=profile&uid=2774521"><img src="https://i.imgur.com/IceaZmb.png"></a></div>
+  <p><span style="color: #fff; font-weight: bold;">Steve Wozniak on Bitcoin</span><br>Steve Wozniak co-founded Apple when he was in his mid-20s, in 1976, along with Steve Jobs. The company grew astronomically over time to become one of the most influential and highest-valued companies of all time. There is a vague similarity with Bitcoin when you look at its graph. It has increased in price and popularity over time at unprecedented rates, reaching market capitalizations higher than the GDP of some countries. At the Jalisco Talent Land Digital 2021 event, Wozniak stated how he believed that "Bitcoin is the most amazing mathematical miracle." He went on to say that he "believe[s] in it for the future," like how Apple helped to shape the future. <a href="https://thecryptobasic.com/2021/07/09/bitcoin-news-apple-co-founder-steve-wozniak-bitcoin-is-the-most-amazing-mathematical-miracle/"><span style="font-size: x-small; font-style: italic;">>>Source</span></a> <br><br><span style="color: #fff; font-weight: bold;">The El Salvador Airdrop</span><br>It is not often that you hear of an airdrop to an entire country. In fact, this is quite possibly one of the only instances where this has happened with digital currencies.  It is even more surprising when you find out that the cryptocurrency is Bitcoin. Each person in El Salvador is the receive $30 in BTC. Some users on Reddit joked that this would be just enough to cover the transaction fees which, at some point, may be true, although the cost of sending a transaction varies and fluctuates all the time. <a href="https://www.reddit.com/r/CryptoCurrencies/comments/o7ja7d/btc_airdrop_30_each_to_the_people_of_el_salvador/"><span style="font-size: x-small; font-style: italic;">>>Source</span></a> <br><br><span style="color: #fff; font-weight: bold;">The Banks Fighting Crypto</span><br>Congressman Brad Sherman spent a large part of his career working in politics. The Californian Democrat is a known anti-cryptocurrency advocate, claiming to highlight threats that digital currencies pose to the U.S. financial system. The same financial system that he is, in fact, taking his donations from. It was revealed that some of his largest donors are banks and financial institutions. It makes you wonder just how many people who oppose cryptocurrencies receive donations from these companies. <a href="https://fee.org/articles/exposed-congressman-trying-to-shut-down-cryptocurrency-gets-biggest-donations-from-big-banks-and-financial-institutions"><span style="font-size: x-small; font-style: italic;">>>Source</span></a></p>
+</div>
+  <div id="x-animenews">
+      <p><a style="color: #ffffff; font-weight: bold;" href="https://hackforums.net/member.php?action=profile&uid=3493494"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/fj0hMCC.png" alt="" width="766" height="204"></a><br><span style="color: #ffffff;"><strong>Pokémon TV Anime Brings Back Dawn, Her Piplup After 9 Years for Summer Special Episodes<br></strong></span>The character from the Pokémon series Dawn is one of the most iconic characters. Dawn and her main Pokémon, Piplup, were one of the most loved companions Ash had. Finally, after nine years not showing on screen, both Dawn and Piplup are making a comeback for the summer's special episodes that will air on July 23 and July 30.<br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/PBVMiPk.png" alt="" width="547" height="750"><br>The episodes will follow Ash and Goh's return to the Sinnoh region in order to investigate strange occurrences that have been plaguing its citizens, such as nightmares that have been linked to Darkrai. After meeting Chloe while she was on her own journey, Dawn joins the crew in their journey to uncover the truth behind everyone's nightmares.<a style="color: #ffffff;" href="https://www.animenewsnetwork.com/news/2021-07-02/pokemon-tv-anime-brings-back-dawn-her-piplup-after-9-years-for-summer-special-episodes/.174739">>>Source</a><br><br><span style="color: #ffffff;"><strong>Ani-One Asia Streams RE-MAIN Water Polo Anime</strong></span><br>RE-MAIN anime's story focuses on a boy named Minato and his water polo team. Minato used to play water polo but he stopped after some incident in his third middle school year. Later on Minato started high school and started playing again with a new team. As the anime goes on, Minato and his team run into many problems.<br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/y2fVUpE.png" alt="" width="282" height="400"><br>On Thursday it was announced by MediaLink Entertainment Limited Ani-One Asia that they will start streaming the anime RE-MAIN. The anime will premiere on July 4 and will be available for Bangladesh, Bhutan, Brunei, Cambodia, Fiji, Guam, India, Indonesia, Kazakhstan, Kyrgyzstan, Laos, Macau, Malaysia, Maldives, Marshall Islands, Mauritius, Micronesia, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, Northern Mariana Island, Pakistan, Palau, Papua New Guinea, the Philippines, Samoa, Seychelles, Singapore, Solomon Islands, Sri Lanka, Taiwan, Thailand, Timor-Leste, Tonga, Vanuatu, and Vietnam. <a style="color: #ffffff;" href="https://www.animenewsnetwork.com/news/2021-07-02/ani-one-asia-streams-re-main-water-polo-anime/.174704">>>Source</a></p>
+  </div>
+  <div id="x-spotlight">
+    <div>
+        <div>
+        <p style="text-align: center;"> </p>
+        </div>
+        </div>
+        <div><a href="https://hackforums.net/member.php?action=profile&uid=1030620"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://hackforums.news/assets/v4/spotlight-maxorg.png" alt="" width="766" height="204"></a></div>
+        <div>
+        <div><span style="white-space: pre;"> </span></div>
+        </div>
+        <div>
+        <div> </div>
+        </div>
+        <div>
+        <div><span style="white-space: pre;"> </span><a href="https://www.behance.net/gallery/120645705/Fashion-Cats"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/M1Uq2Kr.png" alt="" width="1440" height="1024"></a></div>
+        </div>
+        <div>
+        <div> </div>
+        </div>
+        <div>
+        <div><span style="white-space: pre;"> </span></div>
+        </div>
+        <div>
+        <div><span style="white-space: pre;"> </span><a href="https://www.behance.net/gallery/109233113/Mobily-5G"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/BihBmIp.png" alt="" width="1440" height="1024"></a><br><br></div>
+        </div>
+        <div>
+        <div><a href="https://www.behance.net/gallery/85037145/Nescafe-Gold-flavored"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/1LNaS7D.png" alt="" width="1440" height="1024"></a></div>
+        </div>
+        <div>
+        <div><br><a href="https://www.behance.net/gallery/85182579/Old-Spice-Personal-Project"><img src="https://i.imgur.com/JztAsDT.png" alt="" width="1440" height="1024"></a></div>
+        </div>
+        <div>
+        <div style="text-align: center;"><span style="white-space: pre;"> <br></span><em>Want to showcase your own Battlestation (Computer Setup)? </em></div>
+        </div>
+        <div>
+        <div style="text-align: center;"><span style="white-space: pre;"> </span><a href="https://hackforums.net/private.php?action=send&uid=1030620&subject=HFN Battlestation&message=Here are images of my battlestation: " target="_blank" rel="noopener">Submit yours now!</a></div>
+        </div>
+        <div>
+        <div><span style="white-space: pre;"> </span></div>
+        </div>
+        <div>
+        <div><span style="white-space: pre;"> </span></div>
+        </div>
+  </div>
+</div>
