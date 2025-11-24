@@ -1,0 +1,70 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "Easter egg added: occasional middle finger replaces Home icon.",
+            "url": "",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "\"Report rep\" button added on reputation pages.",
+            "url": "http://hackforums.net/showthread.php?tid=548856",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Giveaways section added.",
+            "url": "http://hackforums.net/forumdisplay.php?fid=174",
+            "related_users": []
+        },
+        {
+            "topic": "site",
+            "title": "Requests section (ub3r only) added.",
+            "url": "http://hackforums.net/forumdisplay.php?fid=173",
+            "related_users": []
+        },
+        {
+            "topic": "site",
+            "title": "killerpop89 banned for drinking and posting jibberish.",
+            "url": "https://hackforums.net/showthread.php?tid=547245",
+            "related_users": [
+                "killerpop89"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Banned Topic: SpyEye (financial malware).",
+            "url": "http://hackforums.net/showthread.php?tid=548760",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "news",
+            "title": "",
+            "url": "",
+            "related_users": [
+                "Robbieava"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "killerpop89",
+            "uid": 57913
+        },
+        {
+            "username": "Robbieava",
+            "uid": 81075
+        }
+    ]
+}

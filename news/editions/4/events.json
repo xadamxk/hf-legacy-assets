@@ -1,0 +1,54 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "LUA Coding section created.",
+            "url": "http://hackforums.net/forumdisplay.php?fid=161",
+            "related_users": []
+        },
+        {
+            "topic": "site",
+            "title": "Hacking Tutorials reaches 8,000 threads.",
+            "url": "http://hackforums.net/forumdisplay.php?fid=47",
+            "related_users": []
+        },
+        {
+            "topic": "site",
+            "title": "Luchien Lachance was appointed Moderator of Science, Religion, and Politics.",
+            "url": "",
+            "related_users": [
+                "Luchien Lachance"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Soul Collector was banned for scamming.",
+            "url": "",
+            "related_users": [
+                "Soul Collector"
+            ]
+        },
+        {
+            "topic": "news",
+            "title": "",
+            "url": "",
+            "related_users": [
+                "Yin"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Luchien Lachance",
+            "uid": 52868
+        },
+        {
+            "username": "Soul Collector",
+            "uid": 63671
+        },
+        {
+            "username": "Yin",
+            "uid": 74244
+        }
+    ]
+}

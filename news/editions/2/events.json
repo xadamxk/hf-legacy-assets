@@ -1,0 +1,86 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "Contests section added.",
+            "url": "http://hackforums.net/forumdisplay.php?fid=155",
+            "related_users": []
+        },
+        {
+            "topic": "users",
+            "title": "--([-S7N-])-- was appointed to staff.",
+            "url": "",
+            "related_users": [
+                "--([-S7N-])--"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Member profile contact details removed from profiles.",
+            "url": "http://hackforums.net/showthread.php?tid=433590",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Several datacenters (ThePlanet, SharkTech, FDC, Hurricane Electric) blocked.",
+            "url": "http://hackforums.net/showthread.php?tid=428354",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Graphics tab added with GFX Battles and GFX Contests subforums.",
+            "url": "",
+            "related_users": []
+        },
+        {
+            "topic": "threads",
+            "title": "HackForum's first userscript releases - HackForums Toolbar released (by Delphinum).",
+            "url": "http://hackforums.net/showthread.php?tid=432450",
+            "related_users": [
+                "Delphinum"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Psyk was banned for scamming.",
+            "url": "",
+            "related_users": [
+                "Psyk"
+            ]
+        },
+        {
+            "topic": "news",
+            "title": "",
+            "url": "",
+            "related_users": [
+                "Yin"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "--([-S7N-])--",
+            "uid": 110893
+        },
+        {
+            "username": "Delphinum",
+            "uid": null
+        },
+        {
+            "username": "Psyk",
+            "uid": 52160
+        },
+        {
+            "username": "Yin",
+            "uid": 74244
+        }
+    ]
+}
