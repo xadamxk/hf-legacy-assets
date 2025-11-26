@@ -1,0 +1,48 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "Premium Seller's Section created (L33T/UB3R only).",
+            "url": "http://hackforums.net/forumdisplay.php?fid=107",
+            "related_users": []
+        },
+        {
+            "topic": "site",
+            "title": "Secondary Seller's Market created.",
+            "url": "http://hackforums.net/forumdisplay.php?fid=176",
+            "related_users": []
+        },
+        {
+            "topic": "site",
+            "title": "Brief database outage resolved.",
+            "url": "",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Reviewer applications opened.",
+            "url": "http://hackforums.net/showthread.php?tid=588051",
+            "related_users": []
+        },
+        {
+            "topic": "news",
+            "title": "",
+            "url": "",
+            "related_users": [
+                "Yin"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Yin",
+            "uid": 74244
+        }
+    ]
+}

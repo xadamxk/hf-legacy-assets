@@ -1,0 +1,85 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "Political and religious expression banned in titles, signatures, and avatars.",
+            "url": "http://hackforums.net/showthread.php?tid=671146",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "HF officially #1 MyBB forum by activity.",
+            "url": "http://hackforums.net/showthread.php?tid=653939",
+            "related_users": []
+        },
+        {
+            "topic": "threads",
+            "title": "Omniscient shares summer trip to Zion National Park.",
+            "url": "http://hackforums.net/showthread.php?tid=662659",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Virtual Reality receives UB3R (thanks Dykerosoft) and 1000th post; thank-you thread.",
+            "url": "http://hackforums.net/showthread.php?tid=673642",
+            "related_users": [
+                "Virtual Reality",
+                "Dykerosoft"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Black Shadow™ receives red donator award ($500+ donated).",
+            "url": "",
+            "related_users": [
+                "Black Shadow™"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Mute banned one week for Low Quality Posting.",
+            "url": "",
+            "related_users": [
+                "Mute"
+            ]
+        },
+        {
+            "topic": "news",
+            "title": "",
+            "url": "",
+            "related_users": [
+                "Virtual Reality"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Dykerosoft",
+            "uid": 295518
+        },
+        {
+            "username": "Black Shadow™",
+            "uid": 63387
+        },
+        {
+            "username": "Mute",
+            "uid": 110746
+        },
+        {
+            "username": "iBruteForce",
+            "uid": null
+        },
+        {
+            "username": "Virtual Reality",
+            "uid": 311070
+        }
+    ]
+}

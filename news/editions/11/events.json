@@ -1,0 +1,62 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "Suggestions & Ideas section closed temporarily due to bad suggestions.",
+            "url": "http://hackforums.net/showthread.php?tid=579894",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Sellers section default thread sorting changed to prevent bumping.",
+            "url": "",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Several users created a hoax that the site was hacked; bans issued to participants.",
+            "url": "http://hackforums.net/showthread.php?tid=580961",
+            "related_users": [
+                "paniK",
+                "fagalite",
+                "rollinthatdice",
+                "Minus-Zero",
+                "M0D3RN H4X3R 1™"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Notorious Mental",
+            "uid": 64184
+        },
+        {
+            "username": "paniK",
+            "uid": null
+        },
+        {
+            "username": "fagalite",
+            "uid": 13201
+        },
+        {
+            "username": "rollinthatdice",
+            "uid": 80481
+        },
+        {
+            "username": "Minus-Zero",
+            "uid": 43254
+        },
+        {
+            "username": "M0D3RN H4X3R 1™",
+            "uid": 115975
+        }
+    ]
+}

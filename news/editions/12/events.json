@@ -1,0 +1,24 @@
+{
+    "events": [
+        {
+            "topic": "threads",
+            "title": "No news events this week.",
+            "url": "",
+            "related_users": []
+        },
+        {
+            "topic": "news",
+            "title": "",
+            "url": "",
+            "related_users": [
+                "Yin"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Yin",
+            "uid": 74244
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "events": [
+        {
+            "topic": "users",
+            "title": "Kutmuskaturt was demoted from staff (reason speculated as inactivity).",
+            "url": "",
+            "related_users": [
+                "Kutmuskaturt"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "VipVince was demoted from staff (reason speculated as inactivity).",
+            "url": "",
+            "related_users": [
+                "VipVince"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Kewlhotrod was demoted from staff (reason speculated as inactivity).",
+            "url": "",
+            "related_users": [
+                "Kewlhotrod"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Yin was demoted from Moderator.",
+            "url": "",
+            "related_users": [
+                "Yin"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Hanzo was demoted from administrator (reason speculated as inactivity).",
+            "url": "",
+            "related_users": [
+                "Hanzo"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Kr4z1 promoted to Super Moderator.",
+            "url": "",
+            "related_users": [
+                "Kr4z1"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Reviewers: Taserz and The Elite appointed as leaders.",
+            "url": "",
+            "related_users": [
+                "Taserz",
+                "The Elite"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Amnesty granted to many banned members.",
+            "url": "http://hackforums.net/showthread.php?tid=685697",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Cobija celebrates one-year anniversary on HF.",
+            "url": "http://hackforums.net/showthread.php?tid=682872",
+            "related_users": [
+                "Cobija"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Interview with iBruteforce.",
+            "url": "http://hackforums.net/showthread.php?tid=692675",
+            "related_users": [
+                "iBruteforce"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "HF approaching 6,000,000 posts; remains #1 MyBB forum.",
+            "url": "http://hackforums.net/showthread.php?tid=653939",
+            "related_users": []
+        },
+        {
+            "topic": "news",
+            "title": "Yin steps away from Hack Forums. The Elite takes his place as head HF News writer.",
+            "url": "",
+            "related_users": [
+                "The Elite",
+                "Nicodemus-"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Interview with N3w_2_H@Ck1n™.",
+            "url": "http://hackforums.net/showthread.php?tid=692675",
+            "related_users": [
+                "N3w_2_H@Ck1n™"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Yin",
+            "uid": 74244
+        },
+        {
+            "username": "Hanzo",
+            "uid": null
+        },
+        {
+            "username": "Kr4z1",
+            "uid": 143654
+        },
+        {
+            "username": "Taserz",
+            "uid": 30413
+        },
+        {
+            "username": "The Elite",
+            "uid": 136025
+        },
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "ViRuzz™",
+            "uid": 209986
+        },
+        {
+            "username": "Cobija",
+            "uid": 100071
+        },
+        {
+            "username": "Kn1ght",
+            "uid": 11960
+        },
+        {
+            "username": "iBruteforce",
+            "uid": 33279
+        },
+        {
+            "username": "Nicodemus-",
+            "uid": 47360
+        },
+        {
+            "username": "Kutmuskaturt",
+            "uid": null
+        },
+        {
+            "username": "VipVince",
+            "uid": null
+        },
+        {
+            "username": "Kewlhotrod",
+            "uid": null
+        },
+        {
+            "username": "The Elite",
+            "uid": 136025
+        },
+        {
+            "username": "N3w_2_H@Ck1n™",
+            "uid": 49806
+        }
+    ]
+}

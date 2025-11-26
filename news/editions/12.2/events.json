@@ -1,0 +1,18 @@
+{
+    "events": [
+        {
+            "topic": "news",
+            "title": "",
+            "url": "",
+            "related_users": [
+                "Yin"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Yin",
+            "uid": 74244
+        }
+    ]
+}
