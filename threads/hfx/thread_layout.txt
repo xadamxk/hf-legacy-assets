@@ -5,6 +5,7 @@
 
 [url=https://chromewebstore.google.com/detail/hf-xtension/hcfofmfmidhgbblcnnipcphhegcmdeeb][img=920x87]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/thread_layout_chrome_1.png?raw=true[/img][/url]
 [url=https://addons.mozilla.org/en-US/firefox/addon/hfx][img=920x87]https://github.com/xadamxk/hf-legacy-assets/blob/main/threads/hfx/thread_layout_ff_1.png?raw=true[/img][/url]
+[url=https://hackforums.net/showthread.php?tid=6315229][size=large]Click here: Safari iPhone[/size][/url]
 [/align]
 
 HFX is back, rewritten entirely from scratch, and updated to support modern browsers (manifest v3 API).
